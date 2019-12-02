@@ -41,7 +41,7 @@ GIT:
 Clone repo to a new folder:
 -- git clone https://github.com/14020816/selenium_hang.git
 
--- add : git add "file_name"
+-- add : git add "file_name" kkk
 -- Commit
 	git commit -m "message"
 -- Push
