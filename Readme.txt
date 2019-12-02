@@ -37,7 +37,7 @@ const {Builder, By, Key, until} = require('selenium-webdriver');
 })();
 
 
-GIT: 
+GIT:  https://tortoisegit.org/
 Clone repo to a new folder:
 -- git clone https://github.com/14020816/selenium_hang.git
 
