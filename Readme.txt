@@ -1,12 +1,13 @@
 #LucND 
 Text editor: Visual studio code (ESlint plugin)
 1. Install Selenium web driver:
-For Chrome: https://chromedriver.storage.googleapis.com/78.0.3904.70/chromedriver_win32.zip
-Set path: https://selenium.dev/documentation/en/webdriver/driver_requirements/#adding-executables-to-your-path
-
-
-open cmd (admin) --> setx /m path "%path%;D:\WORK_SPACE\selenium" 
-
+For Chrome: 
+	Window: https://chromedriver.storage.googleapis.com/78.0.3904.70/chromedriver_win32.zip
+	Linux: https://chromedriver.storage.googleapis.com/78.0.3904.70/chromedriver_linux64.zip
+Set path: https://selenium.dev/documentation/en/webdriver/driver_requirements/#adding-executables-to-your-path	
+	Window: open cmd (admin) --> setx /m path "%path%;D:\WORK_SPACE\selenium" 
+	Linux: (Ctrl - Alt + T) to open terminal --> export PATH=$PATH:/opt/WebDriver/bin >> ~/.profile
+			
 2. Install NodeJS
 3. Create new project
 	Create new folder --> open cmd in this folder
