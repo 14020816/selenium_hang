@@ -9,6 +9,7 @@ Set path: https://selenium.dev/documentation/en/webdriver/driver_requirements/#a
 	Linux: (Ctrl - Alt + T) to open terminal --> export PATH=$PATH:/opt/WebDriver/bin >> ~/.profile
 			
 2. Install NodeJS
+	Open terminal --> run "node -v" to see node version
 3. Create new project
 	Create new folder --> open cmd in this folder
 	Run: npm install selenium-webdriver
